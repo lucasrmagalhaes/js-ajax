@@ -9,4 +9,5 @@
     <li>Através do DOM, atualiza a página web sem ter que recarregar.</li>
 </ol>
 
-[AJAX](https://www.youtube.com/watch?v=cQoGow-UwDc&list=PLXik_5Br-zO9hDBdGmzX5XJ9LT6IcHPiG)
+[Laragon](https://laragon.org/) <br>
+[Playlist - AJAX](https://www.youtube.com/watch?v=cQoGow-UwDc&list=PLXik_5Br-zO9hDBdGmzX5XJ9LT6IcHPiG)
