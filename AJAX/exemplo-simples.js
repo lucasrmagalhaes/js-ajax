@@ -18,7 +18,8 @@ function btn_click() {
     }
 
     // Prepara o pedido
-    pedido.open('GET', 'exemplo-simples.txt', true)
+    // pedido.open('GET', 'exemplo-simples.txt', true)
+    pedido.open('GET', 'processar.php?n=lucas&s=magalhaes', true);
     
     // Envia o pedido
     pedido.send()
