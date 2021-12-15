@@ -1,4 +1,4 @@
-<h3>JavaScript - AJAX (<strong>A</strong>synchronous <strong>J</strong>avaScript e <strong>X</strong>ML)</h3>
+<strong>JavaScript - AJAX</strong> (<strong>A</strong>synchronous <strong>J</strong>avaScript e <strong>X</strong>ML)
 
 <ol>
     <li>Não é uma linguagem de programação;</li>
