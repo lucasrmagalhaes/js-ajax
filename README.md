@@ -7,6 +7,7 @@
     <li>Através do DOM, atualiza a página web sem ter que recarregar.</li>
 </ol>
 
-[w3schools - Learn AJAX](https://www.w3schools.com/xml/ajax_intro.asp) <br>
-[Laragon](https://laragon.org/) <br>
-[Playlist - AJAX](https://www.youtube.com/watch?v=cQoGow-UwDc&list=PLXik_5Br-zO9hDBdGmzX5XJ9LT6IcHPiG)
+- [jQuery CDN](http://code.jquery.com/) <br>
+- [w3schools - Learn AJAX](https://www.w3schools.com/xml/ajax_intro.asp) <br>
+- [Laragon](https://laragon.org/) <br>
+- [Playlist - AJAX](https://www.youtube.com/watch?v=cQoGow-UwDc&list=PLXik_5Br-zO9hDBdGmzX5XJ9LT6IcHPiG)
